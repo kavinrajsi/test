@@ -1,0 +1,459 @@
+{
+  "sections": {
+    "1659926191a36ed220": {
+      "type": "custom-code",
+      "settings": {
+        "custom_css": ".collection-card__image {\noverflow: visible !important;\n}\n.sf-home__hero .sf-hero__title {\nfont-weight: 400;\n}\nsection.sf-icon-box { \nborder-bottom: 1px solid #eee\n}\n.sf-icon-box h3 {\n    \tfont-size: 20px;\nfont-weight: 500;\n   }\n\n.sf__custom-content-full.sf-custom .sf-custom__block--text {\n\tbackground-color: #FBE9DA;\n\tpadding: 40px;\n}\n.sf__newsletter-section {\n\tbackground-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0147\/0962\/0800\/files\/soap_form_bg.png?v=1660033729);\n\tbackground-repeat: no-repeat;\n\tbackground-size: cover;\n\tbackground-position: center;\n}\n.sf__newsletter-section .sf__newsletter-form-group {\n\tbackground-color: #fff;\n\tborder-radius: 50px;\nborder: 0;\n}\n@media (min-width: 1536px) {\n.sf-home__hero .sf-hero__title {\nfont-size: 100px;\nmargin-bottom: 7px;\n    line-height: 1.26;\n}\n.sf-home__hero .sf-hero__text {\n    font-size: 24px;\n    margin-bottom: 40px;\n    }\n\n.sf__custom-content-full.sf-custom .sf-custom__block--text {\n\t\tpadding-left: 135px;\n\t}\n}\n.sf-press {\n\tborder-bottom: 1px solid #eee;\n}\n.sf-press .rte {\n\tfont-weight: 500;\n}\n@media(min-width:1024px) {\n\t.sf-press .rte {\n\t\tfont-size: 30px;\n\t}\n}\n@media ( min-width: 768px ) {\n.sf__custom-content-grid .content__heading { font-size: 42px; line-height: 1.3; }\n}\n@media (max-width:767px) {\n.sf__custom-content-grid .sf-custom__block  { width: 100%; }\n.sf__custom-content-grid .sf-custom__text-cta { margin-top: 10px; }\n.sf__custom-content-grid .sf-custom__block--text { margin-top: -30px; }\n}"
+      }
+    },
+    "165959683132f7888b": {
+      "type": "image-with-text-2",
+      "settings": {
+        "container": "w-full",
+        "hero_size": "adapt",
+        "show_overlay": false,
+        "bg_position": "center",
+        "image_link": "",
+        "parallax": false,
+        "content_in_container": false,
+        "content_position": "left middle",
+        "text_alignment": "left",
+        "text_size": "large",
+        "text_color": "dark",
+        "title": "Solid Soap",
+        "subtitle": "",
+        "text": "<p>Update your home with the seasons.<\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "use_content_above": true,
+        "custom_class": "sf-home__hero"
+      }
+    },
+    "16600290314092d80c": {
+      "type": "icon-box",
+      "blocks": {
+        "16600290310a728499-0": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "Clean & natural",
+            "description": "<p>Natural and organic ingredients,<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16600290310a728499-1": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "French manufacturing",
+            "description": "<p>In our workshops in Lyon and Jura<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16600290310a728499-2": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "Zero plastic",
+            "description": "<p>In products and in packaging<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "ff102a06-e2cd-4745-92fc-c902c55701bc": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "Free delivery",
+            "description": "<p>Free Shipping for orders over £130<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "16600290310a728499-0",
+        "16600290310a728499-1",
+        "16600290310a728499-2",
+        "ff102a06-e2cd-4745-92fc-c902c55701bc"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "item_per_row": 4,
+        "item_gap": 30,
+        "item_gap_mobile": 10,
+        "card_style": "vertical",
+        "image_max_width": "45px",
+        "content_alignment": "center",
+        "hover_effect": "none",
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "use_scroll_mobile": true,
+        "use_grid_column_mb": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "section__flush-top section__flush-bottom"
+      }
+    },
+    "1659587158ce41b7ac": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "The new soaps",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "enable_flashsale": false,
+        "show_countdown": false,
+        "product_to_show": 8,
+        "items_per_row": 4,
+        "item_gap": 30,
+        "pcard_layout": "",
+        "pcard_image_ratio": "",
+        "show_vendor": false,
+        "hide_title": false,
+        "enable_slider": true,
+        "show_pagination": false,
+        "show_navigation": true,
+        "button_type": "link",
+        "button_text": "SHOP NOW",
+        "button_style": "sf__btn-secondary",
+        "button_size": "",
+        "infinite_load": false,
+        "max_page_load": 3,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "16595850289c0b4c41": {
+      "type": "collection-list",
+      "blocks": {
+        "16595850286b090433-0": {
+          "type": "collection_block",
+          "settings": {
+            "title": "Shampoo"
+          }
+        },
+        "16595850286b090433-1": {
+          "type": "collection_block",
+          "settings": {
+            "title": "Facecare"
+          }
+        },
+        "52a66cb1-ebc3-440c-8fe5-19e51807c2cd": {
+          "type": "collection_block",
+          "settings": {
+            "title": "Organic"
+          }
+        },
+        "16595850286b090433-2": {
+          "type": "collection_block",
+          "settings": {
+            "title": "Accessories"
+          }
+        },
+        "028a1ca7-81df-4d8c-8c00-68b2282e5b70": {
+          "type": "collection_block",
+          "settings": {
+            "title": "Sale"
+          }
+        }
+      },
+      "block_order": [
+        "16595850286b090433-0",
+        "16595850286b090433-1",
+        "52a66cb1-ebc3-440c-8fe5-19e51807c2cd",
+        "16595850286b090433-2",
+        "028a1ca7-81df-4d8c-8c00-68b2282e5b70"
+      ],
+      "settings": {
+        "heading": "Our ranges",
+        "subheading": "",
+        "description": "Simple products but super pleasat to use, respectful of health and the environment.",
+        "header_alignment": "left",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "layout": "left-side",
+        "card_style": "standard",
+        "text_alignment": "center",
+        "hover_effect": "scaling-up",
+        "show_product_count": false,
+        "count_inline_title": false,
+        "image_rounded": false,
+        "items_per_row": 5,
+        "item_gap": 50,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "use_scroll_mobile": true,
+        "mobile_gap": 30,
+        "hidden_slide_control_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf-home__collection-list"
+      }
+    },
+    "16599437071ec5779e": {
+      "type": "custom-content",
+      "blocks": {
+        "e22d1da2-48a1-426d-8325-2ea6cd01b2f5": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "82f0e67c-e016-4810-8c32-d0655409edb7": {
+          "type": "text",
+          "settings": {
+            "title": "Simple, natural<br> clean & responsible",
+            "subheading": "",
+            "text": "<p>We believe in crafting pieces where sustainability <br\/>and style go hand in hand. Made from materials like<br\/> recycled cashmere and sust<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "learn more",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "e22d1da2-48a1-426d-8325-2ea6cd01b2f5",
+        "82f0e67c-e016-4810-8c32-d0655409edb7"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "w-full",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf__custom-content-full"
+      }
+    },
+    "166003335902e72e40": {
+      "type": "press",
+      "blocks": {
+        "166003335987d61c1e-0": {
+          "type": "news",
+          "settings": {
+            "title": "<p>“ Millions of combinations, meaning you get a totally unique piece of furniture exactly the way you want it.”<\/p>",
+            "image_width": "130px",
+            "url": ""
+          }
+        },
+        "166003335987d61c1e-1": {
+          "type": "news",
+          "settings": {
+            "title": "<p>“ Millions of combinations, meaning you get a totally unique piece of furniture exactly the way you want it.”<\/p>",
+            "image_width": "130px",
+            "url": ""
+          }
+        },
+        "166003335987d61c1e-2": {
+          "type": "news",
+          "settings": {
+            "title": "<p>“ Millions of combinations, meaning you get a totally unique piece of furniture exactly the way you want it.”<\/p>",
+            "image_width": "130px",
+            "url": ""
+          }
+        },
+        "166003335987d61c1e-3": {
+          "type": "news",
+          "settings": {
+            "title": "<p>“ Millions of combinations, meaning you get a totally unique piece of furniture exactly the way you want it.”<\/p>",
+            "image_width": "130px",
+            "url": ""
+          }
+        },
+        "166003335987d61c1e-4": {
+          "type": "news",
+          "settings": {
+            "title": "<p>“ Millions of combinations, meaning you get a totally unique piece of furniture exactly the way you want it.”<\/p>",
+            "image_width": "130px",
+            "url": ""
+          }
+        },
+        "166003335987d61c1e-5": {
+          "type": "news",
+          "settings": {
+            "title": "<p>“ Millions of combinations, meaning you get a totally unique piece of furniture exactly the way you want it.”<\/p>",
+            "image_width": "130px",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "166003335987d61c1e-0",
+        "166003335987d61c1e-1",
+        "166003335987d61c1e-2",
+        "166003335987d61c1e-3",
+        "166003335987d61c1e-4",
+        "166003335987d61c1e-5"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "show_divider": false,
+        "autoplay": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "16600337156cf1dd69": {
+      "type": "custom-content",
+      "blocks": {
+        "166003371438039f43-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "25%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "166003371438039f43-0": {
+          "type": "text",
+          "settings": {
+            "title": "Solid Shampoo <br>by Superbon",
+            "subheading": "",
+            "text": "<p>Our shampoos are full of natural<br\/> vegetable oils to nourish, protect and<br\/> enhance your hair<\/p>",
+            "width": "25%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "16ceda04-ef63-4131-aa77-8129ed924d26": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "25%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "272dda67-23a1-47aa-bd78-607c95987d1e": {
+          "type": "text",
+          "settings": {
+            "title": "Face care <br>\nby Superbon",
+            "subheading": "",
+            "text": "<p>Our shampoos are full of natural <br\/>vegetable oils to nourish, protect and<br\/> enhance your hair.<\/p>",
+            "width": "25%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "166003371438039f43-1",
+        "166003371438039f43-0",
+        "16ceda04-ef63-4131-aa77-8129ed924d26",
+        "272dda67-23a1-47aa-bd78-607c95987d1e"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf__custom-content-grid"
+      }
+    },
+    "1660033707ccf6d4c9": {
+      "type": "newsletter",
+      "settings": {
+        "container": "w-full",
+        "background_color": "",
+        "form_layout": "vertical",
+        "form_design": "1",
+        "heading": "Welcome to the club",
+        "description": "",
+        "email_placeholder": "Enter your email",
+        "submit_button": "",
+        "text_color": "black",
+        "show_icon": false,
+        "icon_img_width": "30",
+        "show_agreement": true,
+        "padding_top": 92,
+        "padding_bottom": 100,
+        "custom_class": "section__flush-top section__flush-bottom"
+      }
+    }
+  },
+  "order": [
+    "1659926191a36ed220",
+    "165959683132f7888b",
+    "16600290314092d80c",
+    "1659587158ce41b7ac",
+    "16595850289c0b4c41",
+    "16599437071ec5779e",
+    "166003335902e72e40",
+    "16600337156cf1dd69",
+    "1660033707ccf6d4c9"
+  ]
+}

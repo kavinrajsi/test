@@ -1,0 +1,237 @@
+{
+  "current": {
+    "favicon": "shopify:\/\/shop_images\/fav_icon_dark_1.png",
+    "container_width": 1170,
+    "container_fluid_width": 1620,
+    "container_fluid_offset": 65,
+    "color_primary": "#000",
+    "color_field_bg": "#ffffff",
+    "color_body_text": "#000000",
+    "color_heading_text": "#000000",
+    "color_sub_text": "#666666",
+    "color_btn_bg_hover": "#000000",
+    "prod_regular_price_color": "#c02c30",
+    "color_annoucement_bg": "#255840",
+    "color_annoucement_text": "#ffffff",
+    "color_topbar_bg": "#da3f3f",
+    "color_header_bg": "#ffffff",
+    "color_header_link": "#000000",
+    "color_header_transparent": "#000000",
+    "bg_cart_wishlist_count": "#da3f3f",
+    "color_footer_bg": "#f5f5f5",
+    "color_footer_text": "#000",
+    "color_footer_link": "#666666",
+    "color_footer_link_hover": "#000000",
+    "color_footer_bottom_bg": "#f5f5f5",
+    "color_footer_bottom_text": "#000000",
+    "color_border": "#e6e6e6",
+    "img_overlay_opacity": 20,
+    "use_custom_font_body": true,
+    "custom_body_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Light.ttf?v=1618297125@300\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Regular.ttf?v=1618297125@400\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Medium.ttf?v=1618297125@500\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-SemiBold.ttf?v=1618297125@600\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Bold.ttf?v=1618297125@700",
+    "use_custom_font_heading": true,
+    "custom_heading_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/Sentient-Regular.woff2?v=1634182764@400",
+    "type_header_base_size": 35,
+    "on_sale_badge": "show_percentage",
+    "show_vendor": false,
+    "variant_option_design2": "color",
+    "product_colors": "red: #FF6961,\nyellow: #FDDA76,\nblack: #000000,\nblack band: #000000,\nblue: #8DB4D2,\ngreen: #C1E1C1,\npurple: #B19CD9,\nsilver: #EEEEEF,\nwhite: #FFFFFF,\nbrown: #836953,\nlight brown: #B5651D,\ndark turquoise: #23cddc,\norange: #FFB347,\ntan: #E9D1BF,\nviolet: #B490B0,\npink: #FFD1DC,\ngrey: #E0E0E0,\nsky: #96BDC6,\npale leaf: #CCD4BF,\nlight blue: #b1c5d4,\ndark grey: #aca69f,\nbeige: #EBE6DB,\nbeige band: #EED9C4,\ndark blue: #063e66,\ncream: #FFFFCC,\nlight pink: #FBCFCD,\nmint: #bedce3,\ndark gray: #3A3B3C,\nrosy brown: #c4a287,\nlight grey:#D3D3D3,\ncopper: #B87333,\nrose gold: #ECC5C0,\nnight blue: #151B54,\ncoral: #FF7F50,\nlight purple: #C6AEC7",
+    "filter_color1": "gingham",
+    "filter_color2": "flannel",
+    "article_align_content": "text-center",
+    "article_show_date": false,
+    "social_twitter_link": "https:\/\/twitter.com\/home",
+    "social_facebook_link": "https:\/\/facebook.com\/",
+    "social_pinterest_link": "https:\/\/pinterest.com\/",
+    "social_instagram_link": "https:\/\/instagram.com\/",
+    "wishlist_page": "",
+    "product_compare_page": "",
+    "gm_api": "",
+    "instagram_token": "",
+    "custom_css": ".sf__img-no-effect-hover .sf__hover-scale-up:hover img {\n  transform: none;\n}\n\n.sf__pcard-name {\n  font-family: 'SF-Body-font';\n}\n\n.text-color-regular-price {\n  font-weight: 500;\n}\n\n.sf__btn.sf__btn-link:after, .sf__btn.sf__btn-link:before, \na.sf__btn.sf__btn-link:after, a.sf__btn.sf__btn-link:before, \nbutton.sf__btn.sf__btn-link:after, button.sf__btn.sf__btn-link:before {\n  height: 1px;\n}\n\n.sf__btn.sf__btn-link:before, \na.sf__btn.sf__btn-link:before, \nbutton.sf__btn.sf__btn-link:before {\n  background: rgba(0, 0, 0, 0.25);\n}\n\n.sf__btn.sf__btn-link, \na.sf__btn.sf__btn-link, \nbutton.sf__btn.sf__btn-link {\n  font-weight: 400;\n}\n\n.sf-custom__block--product_form .prod__vendor {\n  font-weight: 600;\n  text-transform: uppercase;\n  font-size: 15px;\n  letter-spacing: 2px;\n  color: #C02C30;\n  margin-bottom: 10px;\n}\n\n.sf-custom__block--product_form .prod__title {\n  font-size: 34px;\n  font-family: 'SF-Heading-font';\n  line-height: 1.33;\n  margin-bottom: 15px;\n  display: block;\n  margin-top: 0;\n}\n\n.sf-custom__block--product_form .text-color-regular-price {\n  font-size: 26px;\n  font-weight: 500;\n}\n\n.sf-custom__block--product_form .prod_prices {\n  margin-bottom: 20px;\n}\n\n.sf-custom__block--product_form .prod__option-label {\n  display: none !important;\n}\n\n.sf-custom__block--product_form .sf-prod__info .quantity-input {\n  background: transparent;\n  border: 1px solid #E4E4E4;\n  border-radius: 5px;\n}\n\n.sf-custom__block--product_form .sf-prod__info .quantity-input input {\n  background: transparent;\n}\n\n.sf-hero__subtitle {\n  font-weight: 600;\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #C02C30;\n  line-height: 1.44;\n  font-size: 18px;\n}\n\n.sf-hero__title {\n  line-height: 1.283;\n  margin-bottom: 10px;\n}\n\n.sf__custom-countdown-1 .sf__cdt-inner h3 {\n  font-size: 24px;\n  line-height: 1.33;\n  margin-bottom: 38px;\n}\n\n.sf__custom-countdown-1 .countdown-timer-container .countdown-timer-day,\n.sf__custom-countdown-1 .countdown-timer-container .countdown-timer-hour,\n.sf__custom-countdown-1 .countdown-timer-container .countdown-timer-minute,\n.sf__custom-countdown-1 .countdown-timer-container .countdown-timer-sec {\n  font-family: 'SF-Heading-font';\n}\n\n.sf__custom-countdown-1 .countdown-timer-container .countdown-timer-day + p,\n.sf__custom-countdown-1 .countdown-timer-container .countdown-timer-hour + p,\n.sf__custom-countdown-1 .countdown-timer-container .countdown-timer-minute + p,\n.sf__custom-countdown-1 .countdown-timer-container .countdown-timer-sec + p {\n  letter-spacing: 1px;\n}\n\n.sf__custom-icon-box-1 .sf-icon-box {\n  background: #fff;\n  box-shadow: 0px 30px 50px rgb(0 0 0 \/ 4%);\n  border-radius: 5px;\n  padding: 32px 20px;\n}\n\n.sf__custom-icon-box-1 .sf-icon-box__text h3 {\n  font-size: 20px;\n  font-family: 'SF-Body-font';\n  font-weight: 500;\n  line-height: 2.3;\n  margin-bottom: 0;\n}\n\n.sf__newsletter-section {\n  background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/bg-newsletter.jpg?v=1636184520');\n  background-repeat: no-repeat;\n  background-size: cover;\n}\n\n.sf__newsletter-section .newsletter__form-heading {\n  margin-bottom: 22px;\n}\n\n.sf__newsletter-section .newsletter__form-heading h3 {\n  font-size: 36px;\n  line-height: 1.3;\n}\n\n.sf__newsletter-section .sf__newsletter-form-group {\n  background: #fff;\n  max-width: 500px;\n}\n\n.sf__newsletter-section .sf__newsletter-form-group input,\n.sf__newsletter-section .sf__newsletter-form-group button {\n  color: #000 !important;\n}\n\n.sf__newsletter-section .sf__newsletter-form-group input::placeholder {\n  color: #666 !important;\n}\n\n.sf__newsletter-section .sf__newsletter-form-group button svg {\n  fill: #000;\n}\n\n.sf__footer-block-title {\n  font-family: 'SF-Body-font';\n}\n\n@media screen and (min-width: 768px) {\n  .sf__custom-countdown-1 .sf__cdt-inner {\n    padding-bottom: 0;\n    height: 30vh;\n  }\n}\n\n@media screen and (min-width: 1280px) {\n  .sf-hero__title {\n    font-size: 60px;\n  }\n\n  .sf-hero__text {\n    margin-bottom: 35px;\n  }\n}\n\n@media screen and (max-width: 767px) {\n  .sf__newsletter-section .newsletter__form-heading h3 {\n    font-size: 24px;\n  }\n  \n  .sf__custom-countdown-1 .sf__cdt-inner h3 {\n    margin-bottom: 20px;\n  }\n  \n  .sf__custom-collection-list .sf__ms-wrapper:not(.swiper-container-initialized) .sf-column {\n    width: 40vw !important;\n  }\n  \n  .sf-hero__subtitle {\n    font-size: 14px;\n    margin-bottom: 10px;\n  }\n  \n  .sf-hero__title {\n    font-size: 36px;\n  }\n  \n  .sf-hero__btn, .sf-hero__btn a {\n    width: 100%;\n  }\n}",
+    "sale_popup_collection": "sale",
+    "size_chart": "size-guide",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "a6389b6c-8b98-4168-945c-7a485daeb368": {
+            "type": "custom_html",
+            "settings": {
+              "heading": "Home",
+              "container": "container-fluid",
+              "html": ""
+            }
+          },
+          "aa3a461e-6b78-4ad1-9c05-30ef313f0de1": {
+            "type": "banner",
+            "settings": {
+              "heading": "Shops",
+              "container": "container-fluid",
+              "banner_style": "outside",
+              "banner_image": "shopify:\/\/shop_images\/icon-box.jpg",
+              "banner_link": "",
+              "banner_title": "The new - Season Shoes Edit",
+              "banner_desc": "",
+              "banner_button_text": "Shop Now"
+            }
+          },
+          "1047a891-c149-4198-a360-0ac3972840d2": {
+            "type": "product-list",
+            "settings": {
+              "heading": "Products",
+              "container": "container-fluid",
+              "stretch_width": false,
+              "collection": "best-sellers",
+              "limit": 6,
+              "columns": 2
+            }
+          },
+          "0b2375bd-0f3a-46d8-878a-eba1b42a6491": {
+            "type": "custom_html",
+            "settings": {
+              "heading": "Features",
+              "container": "inherit",
+              "html": ""
+            }
+          }
+        },
+        "block_order": [
+          "a6389b6c-8b98-4168-945c-7a485daeb368",
+          "aa3a461e-6b78-4ad1-9c05-30ef313f0de1",
+          "1047a891-c149-4198-a360-0ac3972840d2",
+          "0b2375bd-0f3a-46d8-878a-eba1b42a6491"
+        ],
+        "settings": {
+          "header_design": "logo-left-menu-center",
+          "container": "container-fluid",
+          "header_sticky": true,
+          "transparent_on_top": false,
+          "logo_text": "MINIMOG",
+          "logo": "shopify:\/\/shop_images\/logo_dark.png",
+          "logo_max_width": 125,
+          "sticky_logo_max_width": 125,
+          "mobile_logo_max_width": 115,
+          "main_menu": "main-menu",
+          "secondary_menu": "",
+          "mobile_menu": "",
+          "uppercase_parent_level": false,
+          "search": "show_icon",
+          "show_account_icon": true,
+          "show_cart_icon": true,
+          "show_wishlist_icon": true,
+          "show_compare_icon": false,
+          "show_currency_switcher": false,
+          "show_language_switcher": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "85209d5e-c364-489f-8320-73d204b3ed46": {
+            "type": "menu",
+            "settings": {
+              "menu": "services",
+              "title": "Information",
+              "width": "25%"
+            }
+          },
+          "d5978e13-bd48-4f66-bbbe-5b0e5bb800f5": {
+            "type": "menu",
+            "settings": {
+              "menu": "quick-links",
+              "title": "Quick links",
+              "width": "25%"
+            }
+          },
+          "00b1bff8-85ae-4ba3-9eaf-d474a1cf2c93": {
+            "type": "our_store",
+            "settings": {
+              "title": "Our store",
+              "description": "<p>Find a location nearest<br\/>you. <a href=\"#\" title=\"#\"><span style=\"text-decoration:underline\">See our stores<\/span><\/a><\/p>",
+              "show_email": true,
+              "show_phone": true,
+              "show_socials_link": false,
+              "width": "25%"
+            }
+          },
+          "eaa940f2-97bf-4d69-bf66-db32b8e661bf": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Subscribe",
+              "description": "Enter your email below to be the first to know about new collections and product launches.",
+              "email_placeholder": "Enter your email",
+              "form_style": "bordered",
+              "show_social": false,
+              "show_agree_checkbox": false,
+              "width": "25%"
+            }
+          }
+        },
+        "block_order": [
+          "85209d5e-c364-489f-8320-73d204b3ed46",
+          "d5978e13-bd48-4f66-bbbe-5b0e5bb800f5",
+          "00b1bff8-85ae-4ba3-9eaf-d474a1cf2c93",
+          "eaa940f2-97bf-4d69-bf66-db32b8e661bf"
+        ],
+        "settings": {
+          "design": "footer-2",
+          "container": "container-fluid",
+          "bordered": true,
+          "copyright": "© MINIMOG 2021",
+          "show_currency_selector": true,
+          "show_language_selector": true,
+          "show_social_links": true,
+          "show_payment_icons": true,
+          "payment_icons_width": 300
+        }
+      },
+      "annoucement": {
+        "type": "annoucement",
+        "settings": {
+          "show_announcement": true,
+          "homepage_only": true,
+          "show_close": true,
+          "message": "<div class=\"flex items-center font-medium\">\n<span><svg width=\"13\" height=\"13\" viewbox=\"0 0 13 13\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\">\n<rect width=\"13\" height=\"13\" fill=\"url(#pattern0)\"><\/rect>\n<defs>\n<pattern id=\"pattern0\" patterncontentunits=\"objectBoundingBox\" width=\"1\" height=\"1\">\n<use xlink:href=\"#image0_9:369\" transform=\"scale(0.0106383)\"><\/use>\n<\/pattern>\n<image id=\"image0_9:369\" width=\"94\" height=\"94\" xlink:href=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABeCAYAAACq0qNuAAAFuklEQVR4Ae2dW+gVRRzHpQvdpKCSsCKxK1KgEOlDD771EEQFUSCZQpIQgoHRS2EiJkFgYBhSDxYiiC8VQdhD+GAYPghBvRVFFyii+70oP\/Hl\/1tctt1z9szuzNnZmXk5e+bszO\/3+8xe5vL7zVm0KNIEXAosj1T9eNUG7gDuj9eCSDUHngSei1T9eNUGXgOOxWtBpJoDXwI\/A2dFakJ8agNLOZNWxGdBpBoDd53hzvpIzYhPbWBnCfze+CyIVGPgrRL4E5GaEZ\/awDcl8L8D58RnRWQaA8tK0IvDlZGZEZ+6wH0F7dLnpvgsiUxjYF8JeHF4KDIz4lMX+KSgXfr8Ng+kPLYlcFMJdvVwjUfRaVcNPFalXfq+I206Hq0H3i6Brh6e9Cg63aqBC4E\/qrRL3\/8FLk+XkCfLgTtLkJsO13kSn261wAtNtEv5B9Ml5Mly4OMS4KZDTSXk+fm+2gBY2US6Jn9tX3KTrwd4tQZwU9YbyQPrAwBwJfB3E+Wa\/NPAjX3ITroO4NkauNOy9icNravxwGLgh2mUa37XHH3u07s2ALC1BmrbrKdd5SZdDjgb+LQt5Zrz1LU8P2mILsYD62pgzpr1qIvsZMsA1wDfzUq55vxfNJWcLMhZDAfOBd6rgeia9QFwwSw6JHku8Lwr4QnlDiQJs63RwL0T4HX9aWNbPZI6D7gW+LEr3QnlfwNuSQrqNGMN+ocToPX1k2Y4s5OrGgS423F06toYvwIPTrsYRvu73O4U0eFKr4dyLyc3wAKuAt7tAV7XKt4Hbhjt1V0YptUhBYxVnE67wutaXlElD2v8UOg5mk\/gImBLy+W7riBdyyu05wngkujBW8jMbuB7VxpzKKc7QIO4ZdE1gK2RvgL8NQdwfYn8BzgMrB5sA5izkfxe5ILRxhugLzih6vkM2G9d38VzbQhzIJUvo9zqJnl4hYITSo7u4neAx4GbvTeCRWIoKED+6XWu0qEMH5qcz4GXgAeA6zo1hL0UFdKo6DoFepVjjoZm+ND00TqCngLPAPcAV9c2hu2CoQ0ZtDeAwtTVrcqpXwJfAW8C280HdInmSpbboEbD92MWpt6v2Fyb5oeOA3tsSfP\/o2UbXa4A1gN7gROA3CVyakfgT+CkvQs3aipaC\/e1j5tpmTahJf\/FTcAhQDFHOS0QkN\/PEWAzcKvXqQe7K9YAO6x1FRSQSpKL4ClgF3C789U87Wpv87u8tuzZdXCkPSBNeWgUuwG4og2T4OfY3bAWeB2I\/U44altwuT2jg9M3gZrrBl4EtN4ZS9LI9MAo1meBy4CngK8HTF+PE82kLp3XhepNLnAe8Ajw04AaQPNM27Rm4M3woVQMXA9o2W3e6SNg1VC4BNFDC82AFpznldT3vjiIsUMUAjwU+OWrl+eWIbIIrpMNq0MsoHwB3BbcwCELlIcXoMkkX0lXeoZedxHIw8sX9fx4qSNeyvP0wj1SEpEP6whYb6fPrqa6jOn2XuogN+XZVIP8W7omDY7S6qc3QW2bb251XcFvaysvn2cELBaqy\/qv5l7GPw3g44oxX0bXq363D52SqFMOpI6L7+qzj2+WMWSrO0YB5ii\/ro1kHmxyIJ0l5SCzruBV3tY724I\/2ofMXMcC+NVtqWuNNEPrkQAgV+lpSV3IuBame2TkpSrzT58G\/rAX4SlXakEB08BvSJmRF9ttmyz1z5uSPLyG6WzkhUjASi0Sown8qYCqpCXKwl+awO9Ki0ZAaxVz1ERdDqQBVUlPFKCYo2qSq3TuRvq8HCzQqwo+L+35hK66LbquCn6zb7nJ16+Qxip1RWIkDyYEgMrWiIo5Gt\/OGyFAziqj8ict+U9ZZgXoer4F7xZPnH2u9eRyMxKwiOkCfN7WcEZ+zqcrTL2gPoqQGWcScygIKExdTq554BSSv+0NcDykzCxrYSClDRn2ZBiBCdguGPmfzgJz19TBkpj3jPwPfz0C45P2+8EAAAAASUVORK5CYII=\"><\/image>\n<\/defs>\n<\/svg>\n<\/span>\n<span class=\"px-3\">Free Delivery on orders over £120. Don’t miss discount.<\/span>\n<span><svg width=\"13\" height=\"13\" viewbox=\"0 0 13 13\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\">\n<rect width=\"13\" height=\"13\" fill=\"url(#pattern0)\"><\/rect>\n<defs>\n<pattern id=\"pattern0\" patterncontentunits=\"objectBoundingBox\" width=\"1\" height=\"1\">\n<use xlink:href=\"#image0_9:369\" transform=\"scale(0.0106383)\"><\/use>\n<\/pattern>\n<image id=\"image0_9:369\" width=\"94\" height=\"94\" xlink:href=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABeCAYAAACq0qNuAAAFuklEQVR4Ae2dW+gVRRzHpQvdpKCSsCKxK1KgEOlDD771EEQFUSCZQpIQgoHRS2EiJkFgYBhSDxYiiC8VQdhD+GAYPghBvRVFFyii+70oP\/Hl\/1tctt1z9szuzNnZmXk5e+bszO\/3+8xe5vL7zVm0KNIEXAosj1T9eNUG7gDuj9eCSDUHngSei1T9eNUGXgOOxWtBpJoDXwI\/A2dFakJ8agNLOZNWxGdBpBoDd53hzvpIzYhPbWBnCfze+CyIVGPgrRL4E5GaEZ\/awDcl8L8D58RnRWQaA8tK0IvDlZGZEZ+6wH0F7dLnpvgsiUxjYF8JeHF4KDIz4lMX+KSgXfr8Ng+kPLYlcFMJdvVwjUfRaVcNPFalXfq+I206Hq0H3i6Brh6e9Cg63aqBC4E\/qrRL3\/8FLk+XkCfLgTtLkJsO13kSn261wAtNtEv5B9Ml5Mly4OMS4KZDTSXk+fm+2gBY2US6Jn9tX3KTrwd4tQZwU9YbyQPrAwBwJfB3E+Wa\/NPAjX3ITroO4NkauNOy9icNravxwGLgh2mUa37XHH3u07s2ALC1BmrbrKdd5SZdDjgb+LQt5Zrz1LU8P2mILsYD62pgzpr1qIvsZMsA1wDfzUq55vxfNJWcLMhZDAfOBd6rgeia9QFwwSw6JHku8Lwr4QnlDiQJs63RwL0T4HX9aWNbPZI6D7gW+LEr3QnlfwNuSQrqNGMN+ocToPX1k2Y4s5OrGgS423F06toYvwIPTrsYRvu73O4U0eFKr4dyLyc3wAKuAt7tAV7XKt4Hbhjt1V0YptUhBYxVnE67wutaXlElD2v8UOg5mk\/gImBLy+W7riBdyyu05wngkujBW8jMbuB7VxpzKKc7QIO4ZdE1gK2RvgL8NQdwfYn8BzgMrB5sA5izkfxe5ILRxhugLzih6vkM2G9d38VzbQhzIJUvo9zqJnl4hYITSo7u4neAx4GbvTeCRWIoKED+6XWu0qEMH5qcz4GXgAeA6zo1hL0UFdKo6DoFepVjjoZm+ND00TqCngLPAPcAV9c2hu2CoQ0ZtDeAwtTVrcqpXwJfAW8C280HdInmSpbboEbD92MWpt6v2Fyb5oeOA3tsSfP\/o2UbXa4A1gN7gROA3CVyakfgT+CkvQs3aipaC\/e1j5tpmTahJf\/FTcAhQDFHOS0QkN\/PEWAzcKvXqQe7K9YAO6x1FRSQSpKL4ClgF3C789U87Wpv87u8tuzZdXCkPSBNeWgUuwG4og2T4OfY3bAWeB2I\/U44altwuT2jg9M3gZrrBl4EtN4ZS9LI9MAo1meBy4CngK8HTF+PE82kLp3XhepNLnAe8Ajw04AaQPNM27Rm4M3woVQMXA9o2W3e6SNg1VC4BNFDC82AFpznldT3vjiIsUMUAjwU+OWrl+eWIbIIrpMNq0MsoHwB3BbcwCELlIcXoMkkX0lXeoZedxHIw8sX9fx4qSNeyvP0wj1SEpEP6whYb6fPrqa6jOn2XuogN+XZVIP8W7omDY7S6qc3QW2bb251XcFvaysvn2cELBaqy\/qv5l7GPw3g44oxX0bXq363D52SqFMOpI6L7+qzj2+WMWSrO0YB5ii\/ro1kHmxyIJ0l5SCzruBV3tY724I\/2ofMXMcC+NVtqWuNNEPrkQAgV+lpSV3IuBame2TkpSrzT58G\/rAX4SlXakEB08BvSJmRF9ttmyz1z5uSPLyG6WzkhUjASi0Sown8qYCqpCXKwl+awO9Ki0ZAaxVz1ERdDqQBVUlPFKCYo2qSq3TuRvq8HCzQqwo+L+35hK66LbquCn6zb7nJ16+Qxip1RWIkDyYEgMrWiIo5Gt\/OGyFAziqj8ict+U9ZZgXoer4F7xZPnH2u9eRyMxKwiOkCfN7WcEZ+zqcrTL2gPoqQGWcScygIKExdTq554BSSv+0NcDykzCxrYSClDRn2ZBiBCdguGPmfzgJz19TBkpj3jPwPfz0C45P2+8EAAAAASUVORK5CYII=\"><\/image>\n<\/defs>\n<\/svg>\n<\/span>\n<\/div>",
+          "message_link": "",
+          "show_divider": false
+        }
+      },
+      "mobile-sticky-bar": {
+        "type": "mobile-sticky-bar",
+        "settings": {
+          "show_mobile_sticky": true,
+          "show_home_icon": true,
+          "show_collection_icon": true,
+          "show_cart_icon": true,
+          "show_search_icon": true,
+          "show_account_icon": false,
+          "show_wishlist_icon": false
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "featured-collection": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "featured-product": {
+          "type": "featured-product",
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "featured-collection",
+        "featured-product"
+      ]
+    }
+  }
+}

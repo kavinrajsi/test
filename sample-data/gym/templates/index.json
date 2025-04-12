@@ -1,0 +1,333 @@
+{
+  "sections": {
+    "16363593679dba0967": {
+      "type": "image-with-text-2",
+      "settings": {
+        "container": "w-full",
+        "hero_size": "adapt",
+        "show_overlay": true,
+        "bg_position": "center",
+        "image_link": "",
+        "parallax": false,
+        "content_in_container": false,
+        "content_position": "left middle",
+        "text_alignment": "left",
+        "text_size": "large",
+        "text_color": "white",
+        "title": "TIME TO BRING<br>\nYOUR A GAME",
+        "subtitle": "",
+        "text": "<p>RAISE YOUR CONFIDENCE<\/p>",
+        "button_label": "Shop now",
+        "button_link": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "use_content_above": false,
+        "custom_class": ""
+      }
+    },
+    "16363603444aee9960": {
+      "type": "custom-content",
+      "blocks": {
+        "b56e351e-c043-4a5b-978b-46bf141724e6": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "center_center",
+            "content_alignment": "center",
+            "text_size": "medium",
+            "text_color": "white",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "protein",
+            "button_style": "sf__btn-link",
+            "button_size": "sf__btn-large",
+            "block_custom_class": "sf__custom-image-card-block-1"
+          }
+        },
+        "a6207bb1-e98f-407e-8e40-dbe86de9d293": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "center_center",
+            "content_alignment": "center",
+            "text_size": "medium",
+            "text_color": "white",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "pre-workout",
+            "button_style": "sf__btn-link",
+            "button_size": "sf__btn-large",
+            "block_custom_class": "sf__custom-image-card-block-1"
+          }
+        },
+        "af54b0a0-e5c7-4190-9b2a-9f89ec349829": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "center_center",
+            "content_alignment": "center",
+            "text_size": "medium",
+            "text_color": "white",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Hydration",
+            "button_style": "sf__btn-link",
+            "button_size": "sf__btn-large",
+            "block_custom_class": "sf__custom-image-card-block-1"
+          }
+        }
+      },
+      "block_order": [
+        "b56e351e-c043-4a5b-978b-46bf141724e6",
+        "a6207bb1-e98f-407e-8e40-dbe86de9d293",
+        "af54b0a0-e5c7-4190-9b2a-9f89ec349829"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf__custom-content-1"
+      }
+    },
+    "162252047554676bc9": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "OUR BEST SELLERS",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "enable_flashsale": false,
+        "show_countdown": false,
+        "product_to_show": 5,
+        "items_per_row": 5,
+        "item_gap": 30,
+        "pcard_layout": "",
+        "pcard_image_ratio": "",
+        "show_vendor": false,
+        "hide_title": false,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "button_type": "link",
+        "button_text": "Shop Now",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "infinite_load": false,
+        "max_page_load": 3,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf__index-featured-collection"
+      }
+    },
+    "16363624673307470a": {
+      "type": "image-with-text",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "item_gap": 120,
+        "item_gap_mobile": 30,
+        "link": "",
+        "layout": "left",
+        "image_column_size": "6",
+        "hover_effect": true,
+        "title": "PUSH YOUR<br>  LIMITS FORWARD",
+        "sub_title": "new in",
+        "text": "<p>Train with the best experts in bodybuilding field. Your results will<br\/> speak to themselves. Try the latest exercising trends, innovative <br\/>equipment and special nutrition plans.<\/p>",
+        "text_size": "large",
+        "content_alignment": "left",
+        "button_label": "Shop Now",
+        "button_link": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "16225208417f633bd7": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "HOT THIS WEEK",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "enable_flashsale": false,
+        "show_countdown": false,
+        "product_to_show": 5,
+        "items_per_row": 5,
+        "item_gap": 30,
+        "pcard_layout": "",
+        "pcard_image_ratio": "",
+        "show_vendor": false,
+        "hide_title": false,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "button_type": "link",
+        "button_text": "Shop Now",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "infinite_load": false,
+        "max_page_load": 3,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf__index-featured-collection"
+      }
+    },
+    "16363652651c1a7c52": {
+      "type": "image-with-text",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "item_gap": 120,
+        "item_gap_mobile": 30,
+        "link": "",
+        "layout": "right",
+        "image_column_size": "6",
+        "hover_effect": true,
+        "title": "UNIVERSITY-STUDIES <br>FORMULATED",
+        "sub_title": "collection",
+        "text": "<p>Train with the best experts in bodybuilding field. Your results will<br\/> speak to themselves. Try the latest exercising trends, innovative<br\/> equipment and special nutrition plans.<\/p>",
+        "text_size": "medium",
+        "content_alignment": "left",
+        "button_label": "Shop Now",
+        "button_link": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "16363653089f0b6a2b": {
+      "type": "image-with-text-2",
+      "settings": {
+        "container": "w-full",
+        "hero_size": "adapt",
+        "show_overlay": true,
+        "bg_position": "center",
+        "image_link": "",
+        "parallax": false,
+        "content_in_container": false,
+        "content_position": "left middle",
+        "text_alignment": "left",
+        "text_size": "medium",
+        "text_color": "white",
+        "title": "UP TO 80% <br>\nSALE OFF",
+        "subtitle": "",
+        "text": "<p>ONLY FOR ONLINE EXCLUSIVE<\/p>",
+        "button_label": "Shop now",
+        "button_link": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "use_content_above": false,
+        "custom_class": ""
+      }
+    },
+    "1622521896cc75a02a": {
+      "type": "icon-box",
+      "blocks": {
+        "1622521896cc75a02a-1": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "FREE DELIVERY",
+            "description": "<p>Free delivery on orders over £39. <br\/>Order by 9pm for next-day delivery.<\/p>",
+            "link": "",
+            "button_label": "learn more",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "1622521896cc75a02a-2": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "FLEXIBLE PAYMENT",
+            "description": "<p>Free delivery on orders over £39. <br\/>Order by 9pm for next-day delivery.<\/p>",
+            "link": "",
+            "button_label": "learn more",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "a92f4695-c66b-47d3-a317-7125f4e8d242": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "MONEY GUARANTEE",
+            "description": "<p>Free delivery on orders over £39. <br\/>Order by 9pm for next-day delivery.<\/p>",
+            "link": "",
+            "button_label": "learn more",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "1622521896cc75a02a-1",
+        "1622521896cc75a02a-2",
+        "a92f4695-c66b-47d3-a317-7125f4e8d242"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "left",
+        "container": "container",
+        "background_color": "rgba(0,0,0,0)",
+        "item_per_row": 3,
+        "item_gap": 30,
+        "item_gap_mobile": 16,
+        "card_style": "vertical",
+        "image_max_width": "90px",
+        "content_alignment": "center",
+        "hover_effect": "none",
+        "enable_slider": false,
+        "show_pagination": true,
+        "show_navigation": false,
+        "use_scroll_mobile": false,
+        "use_grid_column_mb": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf__index-icon-box-2"
+      }
+    }
+  },
+  "order": [
+    "16363593679dba0967",
+    "16363603444aee9960",
+    "162252047554676bc9",
+    "16363624673307470a",
+    "16225208417f633bd7",
+    "16363652651c1a7c52",
+    "16363653089f0b6a2b",
+    "1622521896cc75a02a"
+  ]
+}

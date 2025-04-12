@@ -1,0 +1,220 @@
+{
+  "current": {
+    "favicon": "shopify:\/\/shop_images\/fav_icon_dark_1.png",
+    "container_width": 1170,
+    "container_fluid_width": 1620,
+    "container_fluid_offset": 65,
+    "color_primary": "#000",
+    "color_field_bg": "#ffffff",
+    "color_body_text": "#000000",
+    "color_heading_text": "#000000",
+    "color_sub_text": "#777777",
+    "color_btn_bg_hover": "#000000",
+    "prod_regular_price_color": "#c02c30",
+    "color_annoucement_bg": "#da3f3f",
+    "color_annoucement_text": "#ffffff",
+    "color_topbar_bg": "#da3f3f",
+    "color_header_bg": "#ffffff",
+    "color_header_link": "#000000",
+    "color_header_transparent": "#000000",
+    "bg_cart_wishlist_count": "#da3f3f",
+    "color_footer_bg": "#ffffff",
+    "color_footer_text": "#000",
+    "color_footer_link": "#000000",
+    "color_footer_link_hover": "#000000",
+    "color_footer_bg_mb": "#ffffff",
+    "color_footer_bottom_bg": "#ffffff",
+    "color_footer_bottom_text": "#000000",
+    "color_footer_bottom_bg_mb": "#ffffff",
+    "color_border": "#eeeeee",
+    "img_overlay_opacity": 20,
+    "use_custom_font_body": true,
+    "custom_body_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/BeVietnamPro-Regular.ttf?v=1635385420@400\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/BeVietnamPro-SemiBold.ttf?v=1635387295@600\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/BeVietnamPro-Bold.ttf?v=1635385420@700\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/BeVietnamPro-Light.ttf?v=1635405361@300",
+    "type_base_size": 15,
+    "type_base_line_height": 26,
+    "use_custom_font_heading": true,
+    "custom_heading_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/BeVietnamPro-Regular.ttf?v=1635385420@400\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/BeVietnamPro-SemiBold.ttf?v=1635387295@600\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/BeVietnamPro-Bold.ttf?v=1635385420@700\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0595\/7291\/2305\/files\/BeVietnamPro-Light.ttf?v=1635405361@300",
+    "custom_heading_weight": "700",
+    "type_header_base_size": 31,
+    "btn_uppercase_text": true,
+    "btn_base_size": 14,
+    "btn_border_width": 2,
+    "btn_border_radius": 48,
+    "btn_line_height": 29,
+    "btn_weight": "700",
+    "pcard_layout": "4",
+    "pcard_alignment": "center",
+    "on_sale_badge": "show_percentage",
+    "show_vendor": false,
+    "uppercase_prd_name": true,
+    "variant_option_design2": "color",
+    "product_colors": "red: #FF6961,\nyellow: #FDDA76,\nblack: #000000,\nblack band: #000000,\nblue: #8DB4D2,\ngreen: #C1E1C1,\npurple: #B19CD9,\nsilver: #EEEEEF,\nwhite: #FFFFFF,\nbrown: #836953,\nlight brown: #B5651D,\ndark turquoise: #23cddc,\norange: #FFB347,\ntan: #E9D1BF,\nviolet: #B490B0,\npink: #FFD1DC,\ngrey: #E0E0E0,\nsky: #96BDC6,\npale leaf: #CCD4BF,\nlight blue: #b1c5d4,\ndark grey: #aca69f,\nbeige: #EBE6DB,\nbeige band: #EED9C4,\ndark blue: #063e66,\ncream: #FFFFCC,\nlight pink: #FBCFCD,\nmint: #bedce3,\ndark gray: #3A3B3C,\nrosy brown: #c4a287,\nlight grey:#D3D3D3,\ncopper: #B87333,\nrose gold: #ECC5C0,\nnight blue: #151B54,\ncoral: #FF7F50,\nlight purple: #C6AEC7",
+    "filter_color1": "gingham",
+    "filter_color2": "flannel",
+    "article_align_content": "text-center",
+    "article_show_date": false,
+    "social_twitter_link": "https:\/\/twitter.com\/home",
+    "social_facebook_link": "https:\/\/facebook.com\/",
+    "social_pinterest_link": "https:\/\/pinterest.com\/",
+    "social_instagram_link": "https:\/\/instagram.com\/",
+    "wishlist_page": "",
+    "product_compare_page": "",
+    "gm_api": "",
+    "instagram_token": "",
+    "custom_css": ".sf-nav .sf-menu-item-parent {\n  padding-left: 15px;\n  padding-right: 15px;\n}\n\n.sf-nav .sf-menu-item-parent .sf__parent-item {\n  font-weight: 700;\n  text-transform: uppercase;\n  font-size: 14px;\n  letter-spacing: 1px;\n}\n\n.sf__pcard-name {\n  font-weight: 700;\n}\n\n.sf__btn.sf__btn-white, a.sf__btn.sf__btn-white, button.sf__btn.sf__btn-white {\n  border-color: #EEE;\n}\n\n.section__subheading {\n  font-size: 14px;\n  margin-bottom: 14px;\n}\n\n.sf__custom-text-block-1 .content__subheading {\n  font-size: 16px;\n  font-weight: 600;\n  line-height: 1.75;\n  margin-bottom: 12px;\n}\n\n.sf__custom-text-block-1 .content__heading {\n  line-height: 1.367;\n}\n\n.sf__custom-text-block-1 .sf-custom__text-cta {\n  margin-top: 24px;\n}\n\n.sf__custom-img-card-1 .image-card__content {\n  padding: 20px;\n}\n\n.sf__custom-img-card-1 h3.image__card-heading {\n  -webkit-text-stroke: 3px;\n  -webkit-text-fill-color: transparent;\n  letter-spacing: 0.05em;\n  margin-bottom: 0;\n}\n\n.img-with-text-sale__label {\n  width: 88px;\n  height: 88px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: #C02C30;\n  color: #fff;\n  border-radius: 50%;\n  font-size: 16px;\n  text-transform: uppercase;\n  text-align: center;\n  font-weight: 700;\n  line-height: 20px;\n}\n\n.sf__custom-sale-label {\n  position: absolute;\n  left: calc(50% - 44px);\n  top: calc(50% - 44px);\n}\n\n.img-with-text-sale__label p {\n  transform: rotate(-15deg);\n}\n\n.img-with-text-sale__label p span {\n  font-weight: 400;\n}\n\n.sf__icon-box-1 {\n  border-bottom: 1px solid #EEE;\n}\n\n.sf__icon-box-1 .section-py {\n  padding-top: 38px;\n  padding-bottom: 32px;\n}\n\n.sf__icon-box-1 .sf-icon-box__text h3 {\n  font-size: 14px;\n  text-transform: uppercase;\n  line-height: 1.85;\n  margin-bottom: 0;\n}\n\n.sf__custom-img-card-group .image-card__content .image-card__content-inner {\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: space-between;\n}\n\n.sf__custom-img-card-group .image-card__content .image-card__content-inner .image__card-heading-group {\n  display: flex;\n  flex: 0 0 60%;\n  align-items: end;\n}\n\n.sf__custom-img-card-group .big__text .image-card__content .image-card__content-inner .image__card-heading-group {\n  flex: 0 0 65%;\n}\n\n.sf__custom-img-card-group .image__card-heading-group .image__card-heading {\n  line-height: 1.25;\n}\n\n.sf__custom-img-card-group .big__text .image__card-heading-group .image__card-heading p {\n  font-size: 20px;\n} \n\n.sf__custom-countdown-1 h3 {\n  text-align: center;\n  font-size: 40px;\n  line-height: 1.35;\n  margin-bottom: 25px;\n}\n\n.sf__custom-countdown-1 h3 .text-color-subtext {\n  font-size: 15px;\n  line-height: 1.73;\n  font-weight: 400;\n}\n\n.sf__custom-countdown-1 h3 .countdown__prices-group {\n  display: flex;\n  justify-content: center;\n  margin-bottom: 20px;\n  margin-top: 20px;\n  align-items: center;\n}\n\n.sf__custom-countdown-1 h3 .countdown__prices-group span {\n  padding: 0 5px;\n  font-size: 16px;\n  color: #666;\n  font-weight: 400;\n}\n\n.sf__custom-countdown-1 h3 .countdown__prices-group span.regular-price {\n  text-decoration: line-through;\n  margin-top: 3px;\n}\n\n.sf__custom-countdown-1 h3 .countdown__prices-group span.sale-price {\n  font-size: 24px;\n  color: #000;\n  font-weight: 800;\n}\n\n.sf__custom-countdown-1 .countdown-timer-container .text-center div:first-child {\n  font-size: 36px;\n}\n\n.sf__custom-countdown-1 .countdown-timer-container .text-center p.uppercase {\n  display: none !important;\n}\n\n.sf__custom-countdown-1 .countdown-timer-container .text-center + .text-color-secondary {\n  padding-top: 0;\n}\n\n.sf__custom-countdown-1 .countdown-timer-container + div {\n  margin-top: 30px;\n}\n\n.sf__countdown-timer-1 .sf__cdt-inner h3 {\n  font-size: 40px;\n  line-height: 1.35;\n}\n\n.sf__countdown-timer-1 .countdown-timer-container .text-center div:first-child {\n  font-size: 50px;\n}\n\n.sf__countdown-timer-1 .countdown-timer-container .text-center p.uppercase {\n  font-size: 12px;\n  letter-spacing: 1px;\n}\n\n.sf__custom-content-4 .image-card__content-inner {\n  display: flex;\n  flex-direction: column;\n  align-items: baseline;\n  justify-content: space-between;\n  height: 100%;\n}\n\n.sf__custom-content-4 .image-card__content-inner .image__card-subheading {\n  font-size: 14px;\n  margin-bottom: 13px;\n}\n\n.sf__custom-content-4 .image-card__content-inner .image__card-heading {\n  font-size: 40px;\n  line-height: 1.25;\n}\n\n.sf-footer .sf__footer-middle .sf-footer__block.sf__footer-block-newsletter {\n  max-width: 500px;\n  margin: 0 auto;\n  text-align: center;\n  padding-top: 0;\n}\n\n.sf__footer-block-newsletter .sf__footer-block-title {\n  font-size: 32px;\n  font-weight: 700;\n  line-height: 1.25;\n}\n\n.sf__footer-block-newsletter .sf__newsletter-block-desc {\n  padding: 0;\n  margin-bottom: 28px;\n}\n\n.sf-footer form.sf__footer-form-newsletter .sf__newletter__form-input {\n  border: 2px solid #EEE;\n  border-radius: 48px;\n}\n\n@media screen and (min-width: 1024px) {\n  .sf__countdown-timer-1 .sf__cdt-inner {\n    padding-bottom: 0;\n  }\n  \n  .sf__custom-text-block-1 .content__heading {\n    font-size: 40px;\n  }\n}\n\n@media screen and (min-width: 1280px) {\n  .sf__custom-text-block-1 .content__heading {\n    font-size: 60px;\n  }\n  \n  .sf__custom-img-card-1 h3.image__card-heading { \n    font-size: 120px;\n  }\n  \n  .sf__custom-img-card-group .image__card-heading-group .image__card-heading {\n    font-size: 40px;\n  }\n  \n  .sf__custom-img-card-group .big__text .image__card-heading-group .image__card-heading {\n    font-size: 80px;\n  }\n}\n\n@media screen and (min-width: 1536px) {\n  .sf__custom-img-card-1 h3.image__card-heading {\n    margin-bottom: 20px;\n  }\n}\n\n@media screen and (max-width: 1023px) {\n  .sf__custom-img-with-text .sf-custom__grid {\n    flex-direction: column-reverse;\n  }\n  \n  .sf__custom-img-with-text .sf-custom__grid .sf__custom-text-block-1 {\n    padding-top: 30px;\n    padding-bottom: 40px;\n  }\n  \n  .sf__custom-text-block-1 .content__heading,\n  .sf__countdown-timer-1 .sf__cdt-inner h3,\n  .sf__custom-img-card-group .image__card-heading-group .image__card-heading {\n    font-size: 36px;\n  }\n  \n  .sf__custom-text-block-1 .content__subheading {\n    font-size: 14px;\n    margin-bottom: 10px;\n  }\n  \n  .sf__custom-sale-label {\n    left: auto;\n    right: 0;\n    top: 8px;\n    width: auto;\n  }\n  \n  .sf__custom-img-card-1 h3.image__card-heading {\n    font-size: 60px;\n    line-height: 1;\n  }\n}\n\n@media screen and (max-width: 767px) {\n  \n  \n  .sf__custom-countdown-1 h3 {\n    font-size: 32px;\n    margin-top: 10px;\n  }\n  \n  .sf__custom-countdown-1 .countdown-timer-container+div,\n  .sf__custom-countdown-1 .countdown-timer-container+div a {\n    width: 100%;\n  }\n  \n  .sf__custom-img-card-group .big__text .image__card-heading-group .image__card-heading {\n    font-size: 60px;\n  }\n  \n  .sf__countdown-timer-1 .sf__cdt-inner h3 {\n  \tmargin-bottom: 30px;\n  }\n  \n  .sf__countdown-timer-1 .countdown-timer-container .text-center div:first-child {\n    font-size: 32px;\n  }\n  \n  .sf__custom-content-4 .image-card__content-inner .image__card-subheading {\n    margin-bottom: 8px;\n  }\n  \n  .sf__custom-content-4 .image-card__content-inner .image__card-heading {\n    font-size: 24px;\n  }\n  \n  .sf__custom-content-4 .section-my {\n    margin-bottom: 0;\n  }\n  \n  .sf__accordion-item .sf__accordion-button {\n    font-weight: 700;\n  }\n  \n  .sf__footer-bottom-inner .sf-footer__center {\n    text-align: left;\n  }\n  \n  .sf__footer-bottom-inner .sf-footer__right {\n    justify-content: flex-start;\n  }\n  \n  .section__subheading {\n    margin-bottom: 8px;\n  }\n}",
+    "sale_popup_collection": "sale",
+    "size_chart": "size-guide",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "a6389b6c-8b98-4168-945c-7a485daeb368": {
+            "type": "custom_html",
+            "settings": {
+              "heading": "Home",
+              "container": "container",
+              "html": ""
+            }
+          },
+          "aa3a461e-6b78-4ad1-9c05-30ef313f0de1": {
+            "type": "banner",
+            "settings": {
+              "heading": "Shop",
+              "container": "container",
+              "banner_style": "outside",
+              "banner_link": "",
+              "banner_title": "The new - Season Shoes Edit",
+              "banner_desc": "",
+              "banner_button_text": "Shop Now"
+            }
+          },
+          "1047a891-c149-4198-a360-0ac3972840d2": {
+            "type": "product-list",
+            "settings": {
+              "heading": "Products",
+              "container": "container-fluid",
+              "stretch_width": false,
+              "collection": "best-sellers",
+              "limit": 6,
+              "columns": 2
+            }
+          },
+          "0b2375bd-0f3a-46d8-878a-eba1b42a6491": {
+            "type": "custom_html",
+            "settings": {
+              "heading": "Features",
+              "container": "inherit",
+              "html": ""
+            }
+          }
+        },
+        "block_order": [
+          "a6389b6c-8b98-4168-945c-7a485daeb368",
+          "aa3a461e-6b78-4ad1-9c05-30ef313f0de1",
+          "1047a891-c149-4198-a360-0ac3972840d2",
+          "0b2375bd-0f3a-46d8-878a-eba1b42a6491"
+        ],
+        "settings": {
+          "header_design": "logo-left-menu-center",
+          "container": "container-fluid",
+          "header_sticky": true,
+          "transparent_on_top": false,
+          "logo_text": "MINIMOG",
+          "logo": "shopify:\/\/shop_images\/logo_dark.png",
+          "logo_max_width": 130,
+          "sticky_logo_max_width": 130,
+          "mobile_logo_max_width": 120,
+          "main_menu": "main-menu",
+          "secondary_menu": "",
+          "mobile_menu": "",
+          "uppercase_parent_level": false,
+          "search": "show_icon",
+          "show_account_icon": true,
+          "show_cart_icon": true,
+          "show_wishlist_icon": true,
+          "show_compare_icon": false,
+          "show_currency_switcher": false,
+          "show_language_switcher": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "eaa940f2-97bf-4d69-bf66-db32b8e661bf": {
+            "type": "newsletter",
+            "settings": {
+              "title": "GET VOUCHER",
+              "description": "Subsribe to get voucher 50% and more special offer",
+              "email_placeholder": "Enter your email",
+              "form_style": "bordered",
+              "show_social": false,
+              "show_agree_checkbox": false,
+              "width": "100%"
+            }
+          }
+        },
+        "block_order": [
+          "eaa940f2-97bf-4d69-bf66-db32b8e661bf"
+        ],
+        "settings": {
+          "design": "footer-2",
+          "container": "container-fluid",
+          "bordered": true,
+          "copyright": "© MINIMOG 2021",
+          "show_currency_selector": false,
+          "show_language_selector": false,
+          "show_social_links": true,
+          "show_payment_icons": true,
+          "payment_icons_width": 300
+        }
+      },
+      "annoucement": {
+        "type": "annoucement",
+        "settings": {
+          "show_announcement": false,
+          "homepage_only": true,
+          "show_close": true,
+          "message": "Open Doors To A World Of Fashion  |  Discover More",
+          "message_link": "",
+          "show_divider": false
+        }
+      },
+      "mobile-sticky-bar": {
+        "type": "mobile-sticky-bar",
+        "settings": {
+          "show_mobile_sticky": true,
+          "show_home_icon": true,
+          "show_collection_icon": true,
+          "show_cart_icon": true,
+          "show_search_icon": true,
+          "show_account_icon": false,
+          "show_wishlist_icon": false
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "featured-collection": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "featured-product": {
+          "type": "featured-product",
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "featured-collection",
+        "featured-product"
+      ]
+    }
+  }
+}
